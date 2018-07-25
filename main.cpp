@@ -10,25 +10,7 @@ LANG: C++11
 #include <windows.h>
 #include <conio.h>
 #include <time.h>
-#include <fstream>
-#include <iostream>
-#include <cstdio>
-#include <algorithm>
-#include <cstring>
-#include <string>
-#include <cctype>
-#include <stack>
-#include <queue>
-#include <list>
-#include <vector>
-#include <map>
-#include <sstream>
-#include <cmath>
-#include <bitset>
-#include <utility>
-#include <set>
-#include <numeric>
-#include <iomanip>
+#include <bits/stdc++.h>
 
 #define INT_MAX 2147483647
 #define INT_MIN -2147483647
